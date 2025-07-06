@@ -61,6 +61,23 @@
     <img src="https://github-readme-stats.vercel.app/api?username=pooja1515&show_icons=true&theme=radical&hide_title=false&hide_border=true" width="47%" />
   </a>
 </p>
+<!-- Additional GitHub Aesthetic Stats -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooja1515&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja1515&layout=compact&theme=radical&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pooja1515&theme=radical&row=1&column=6" />
+</p>
+
+<!-- Optional: Contribution Graph via GitHub Activity -->
+ 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja1515&theme=dracula&area=true&hide_border=true" />
+</p>
+
 
 ---
 
