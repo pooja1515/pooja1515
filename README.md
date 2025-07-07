@@ -13,8 +13,8 @@
 ### 🌟 Professional Summary
 <div align="center" style="background-color:#0f172a; color:#f3f4f6; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:16px; line-height:1.7;">
   From circuits to code, my journey took flight. 🎓 Now at NIT Surat, where data fuels my insight.  
-  I speak the language of machines and minds 🧠 with ML, NLP, and GenAI, solutions I find.  
-  🌾 Turning models into meaning and problems into joy, I strive to create 🤖 AI that empowers  precise, fair, and great.
+  I speak the language of machines and minds 🧠 — with ML, NLP, and GenAI shaping what I design.  
+🌾 Turning models into meaning and challenges into impact, I strive to build 🤖 AI that’s fair, focused, and real.
 </div>
 
 
