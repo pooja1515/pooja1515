@@ -1,3 +1,6 @@
+<!-- 🎨 README Background Wrapper -->
+<div style="background: linear-gradient(135deg, #0f172a, #1e1b4b, #312e81); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.3); font-family: 'Fira Code', monospace; color: #f3f4f6;">
+
 <h1 align="center" style="color:#f472b6;">Hey there! 👋 I'm Pooja Dave</h1>
 
 <p align="center">
@@ -17,6 +20,20 @@
 🌾 Turning models into meaning and challenges into impact, I strive to build 🤖 AI that’s fair, focused, and real.
 </div>
 
+---
+
+### 📌 Featured Projects
+<p align="center">
+  <a href="https://github.com/pooja1515/Agrinex-Chatbot">
+    <img src="https://img.shields.io/badge/Agrinex_Chatbot-%F0%9F%8C%BF_AI_in_Agriculture-%23ff6ec7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/pooja1515/SkimLit-BioNLP">
+    <img src="https://img.shields.io/badge/SkimLit-%F0%9F%93%9A_Medical_Abstract_Parser-%237B61FF?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/pooja1515/CityChronicles-Gujarat-News">
+    <img src="https://img.shields.io/badge/CityChronicles-%F0%9F%93%B0_Gujarat_News_Analysis-%23FF9E0F?style=for-the-badge&logo=rss&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -27,19 +44,24 @@
   <img src="https://img.shields.io/badge/SQL-3B0764?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-9333EA?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-f472b6?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Keras-e91e63?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-ec4899?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-fbbf24?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenCV-6366f1?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-059669?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-f472b6?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2563eb?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-6b21a8?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-7c3aed?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-2d3748?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-9333ea?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-facc15?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jupyter-f59e0b?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-6366f1?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Colab-f472b6?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -50,38 +72,47 @@
   <a href="https://www.linkedin.com/in/poojaddave/"><img src="https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="mailto:poojadave@example.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
   <a href="https://leetcode.com/poojadave"><img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> 
+  <a href="https://discord.com/users/_pooja28"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
+### 📊 GitHub Overview
 <p align="center">
-  <a href="https://github.com/pooja1515">
-    <img src="https://github-readme-stats.vercel.app/api?username=pooja1515&show_icons=true&theme=radical&hide_title=false&hide_border=true" width="47%" />
-  </a>
-</p>
-<!-- Additional GitHub Aesthetic Stats -->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooja1515&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja1515&layout=compact&theme=radical&hide_border=true" width="47%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooja1515&theme=radical&hide_border=true" width="47%" />
 </p>
 
+<h3 align="center" style="color:#f472b6;">🏆 GitHub Trophy Showcase</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pooja1515&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pooja1515&theme=radical&margin-w=15&margin-h=20&row=1&column=7" />
 </p>
 
-<!-- Optional: Contribution Graph via GitHub Activity -->
- 
+<h3 align="center" style="color:#38BDF8;">🧠 Profile Summary</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pooja1515&theme=radical" width="90%" />
+</p>
+
+<h3 align="center" style="color:#9333EA;">📌 Languages & Repo Insights</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pooja1515&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pooja1515&theme=radical" width="45%" />
+</p>
+
+<h3 align="center" style="color:#EC4899;">⏰ Coding Activity</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pooja1515&theme=radical" width="48%" />
+</p>
+
+<h3 align="center" style="color:#7C3AED;">📈 Contribution Graph</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja1515&theme=dracula&area=true&hide_border=true" />
 </p>
-
 
 ---
 
 ### 🎯 Fun Fact
 <div align="center" style="background-color:#111827; color:#f3f4f6; padding:15px; border-radius:10px; font-family:'Fira Code', monospace;">
   I’m not just training models — I’m training myself to be the best data scientist in the world! 🌍✨
+</div>
+
 </div>
