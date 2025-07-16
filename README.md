@@ -1,8 +1,7 @@
-
-<h1 align="center" style="color:#f472b6;">Hey there! 👋 I'm Pooja Dave</h1>
+<h1 align="center" style="color:#f9fafb;">Hey there! 👋 I'm Pooja Dave</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+GitHub!;🔍+Exploring+Data+Science%2C+NLP+%26+GenAI;🧠+Passionate+about+Applied+AI+Research;🌱+Learning+%26+Building+AI+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+GitHub!;🔍+Exploring+Data+Science%2C+NLP+%26+GenAI;🧠+Passionate+about+Applied+AI+Research;🌱+Learning+%26+Building+AI+Solutions" />
 </p>
 
 <p align="center">
@@ -12,7 +11,7 @@
 ---
 
 ### 🌟 Professional Summary
-<div align="center" style="background-color:#0f172a; color:#f3f4f6; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:16px; line-height:1.7;">
+<div align="center" style="background-color:#1e1e1e; color:#f9fafb; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:16px; line-height:1.7;">
   From circuits to code, my journey took flight. 🎓 Now at NIT Surat, where data fuels my insight.  
   I speak the language of machines and minds 🧠 — with ML, NLP, and GenAI shaping what I design.  
 🌾 Turning models into meaning and challenges into impact, I strive to build 🤖 AI that’s fair, focused, and real.
@@ -23,13 +22,13 @@
 ### 📌 Featured Projects
 <p align="center">
   <a href="https://github.com/pooja1515/Agrinex-Chatbot">
-    <img src="https://img.shields.io/badge/Agrinex_Chatbot-%F0%9F%8C%BF_AI_in_Agriculture-%23ff6ec7?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Agrinex_Chatbot-%F0%9F%8C%BF_AI_in_Agriculture-%23f472b6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/pooja1515/SkimLit-BioNLP">
-    <img src="https://img.shields.io/badge/SkimLit-%F0%9F%93%9A_Medical_Abstract_Parser-%237B61FF?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/SkimLit-%F0%9F%93%9A_Medical_Abstract_Parser-%238B5CF6?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="https://github.com/pooja1515/CityChronicles-Gujarat-News">
-    <img src="https://img.shields.io/badge/CityChronicles-%F0%9F%93%B0_Gujarat_News_Analysis-%23FF9E0F?style=for-the-badge&logo=rss&logoColor=white" />
+    <img src="https://img.shields.io/badge/CityChronicles-%F0%9F%93%B0_Gujarat_News_Analysis-%23FACC15?style=for-the-badge&logo=rss&logoColor=white" />
   </a>
 </p>
 
@@ -67,9 +66,9 @@
 
 ### 📬 Let's Connect!
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/poojaddave/"><img src="https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/poojaddave/"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="mailto:poojadave@example.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-  <a href="https://leetcode.com/poojadave"><img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> 
+  <a href="https://leetcode.com/poojadave"><img src="https://img.shields.io/badge/LeetCode-EC4899?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> 
   <a href="https://discord.com/users/_pooja28"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
@@ -79,44 +78,40 @@
 
 <!-- 🧠 Profile Details Card -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pooja1515&theme=highcontrast" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pooja1515&theme=radical" width="90%" />
 </p>
 
 <!-- 📊 Top Languages & Most Used -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pooja1515&theme=highcontrast" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pooja1515&theme=highcontrast" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pooja1515&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pooja1515&theme=radical" width="45%" />
 </p>
 
 <!-- 🔥 Streak & ⏰ Productive Time -->
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=pooja1515&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooja1515&theme=highcontrast&hide_border=true" width="48%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=pooja1515&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooja1515&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <!-- 🏆 Trophy Showcase -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pooja1515&theme=darkhub&margin-w=15&margin-h=20&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pooja1515&theme=radical&margin-w=15&margin-h=20&row=1&column=7" />
 </p>
 
 <!-- 🧮 Overall GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja1515&layout=compact&theme=highcontrast&hide_border=true" width="48%"  />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pooja1515&theme=highcontrast" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja1515&layout=compact&theme=radical&hide_border=true" width="48%"  />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pooja1515&theme=radical" width="48%" />
 </p>
 
 <!-- 📈 Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja1515&theme=high-contrast&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja1515&theme=rogue&area=true&hide_border=true" />
 </p>
-
-
 
 ---
 
 ### 🎯 Fun Fact
-<div align="center" style="background-color:#111827; color:#f3f4f6; padding:15px; border-radius:10px; font-family:'Fira Code', monospace;">
+<div align="center" style="background-color:#1e1e1e; color:#f9fafb; padding:15px; border-radius:10px; font-family:'Fira Code', monospace;">
   I’m not just training models — I’m training myself to be the best data scientist in the world! 🌍✨
-</div>
-
 </div>
