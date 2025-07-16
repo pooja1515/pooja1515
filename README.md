@@ -1,5 +1,3 @@
-<!-- 🎨 README Background Wrapper -->
-<div style="background: linear-gradient(135deg, #0f172a, #1e1b4b, #312e81); padding: 30px; border-radius: 15px; box-shadow: 0 0 30px rgba(139, 92, 246, 0.3); font-family: 'Fira Code', monospace; color: #f3f4f6;">
 
 <h1 align="center" style="color:#f472b6;">Hey there! 👋 I'm Pooja Dave</h1>
 
@@ -78,35 +76,41 @@
 ---
 
 ### 📊 GitHub Overview
+
+<!-- 🧠 Profile Details Card -->
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooja1515&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pooja1515&theme=highcontrast" width="90%" />
 </p>
 
-<h3 align="center" style="color:#f472b6;">🏆 GitHub Trophy Showcase</h3>
+<!-- 📊 Top Languages & Most Used -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pooja1515&theme=radical&margin-w=15&margin-h=20&row=1&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pooja1515&theme=highcontrast" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pooja1515&theme=highcontrast" width="45%" />
 </p>
 
-<h3 align="center" style="color:#38BDF8;">🧠 Profile Summary</h3>
+<!-- 🔥 Streak & ⏰ Productive Time -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pooja1515&theme=radical" width="90%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=pooja1515&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooja1515&theme=highcontrast&hide_border=true" width="48%" />
 </p>
 
-<h3 align="center" style="color:#9333EA;">📌 Languages & Repo Insights</h3>
+<!-- 🏆 Trophy Showcase -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pooja1515&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pooja1515&theme=radical" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pooja1515&theme=darkhub&margin-w=15&margin-h=20&row=1&column=7" />
 </p>
 
-<h3 align="center" style="color:#EC4899;">⏰ Coding Activity</h3>
+<!-- 🧮 Overall GitHub Stats -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pooja1515&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja1515&layout=compact&theme=highcontrast&hide_border=true" width="48%"  />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pooja1515&theme=highcontrast" width="48%" />
 </p>
 
-<h3 align="center" style="color:#7C3AED;">📈 Contribution Graph</h3>
+<!-- 📈 Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja1515&theme=dracula&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja1515&theme=high-contrast&area=true&hide_border=true" />
 </p>
+
+
 
 ---
 
