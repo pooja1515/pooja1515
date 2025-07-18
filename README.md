@@ -22,7 +22,7 @@
 ### 📌 Featured Projects
 <p align="center">
   <a href="https://github.com/pooja1515/Agrinex">
-    <img src="https://img.shields.io/badge/Agrinex_Chatbot-%F0%9F%8C%BF_AI_in_Agriculture-%23f472b6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Agrinex-%F0%9F%8C%BF_AI_in_Agriculture-%23f472b6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/pooja1515/SkimLit-BioNLP">
     <img src="https://img.shields.io/badge/SkimLit-%F0%9F%93%9A_Medical_Abstract_Parser-%238B5CF6?style=for-the-badge&logo=python&logoColor=white" />
