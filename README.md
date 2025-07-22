@@ -65,12 +65,15 @@
 ---
 
 ### 📬 Let's Connect!
-<p align="center"> 
+  <p align="center">
   <a href="https://www.linkedin.com/in/poojaddave/"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="mailto:davepooja1515@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
   <a href="https://leetcode.com/davepooja1515"><img src="https://img.shields.io/badge/LeetCode-EC4899?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> 
   <a href="https://discord.com/users/_pooja28"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+ <a href="https://www.kaggle.com/davepooja"><img src="https://img.shields.io/badge/Kaggle-8B5CF6?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+
 </p>
+
 
 ---
 
