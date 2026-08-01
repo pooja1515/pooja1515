@@ -1,7 +1,5 @@
 <div align="center">
 
-<sub>AI PORTFOLIO • 2026 EDITION</sub>
-
 # Artificial Intelligence Portfolio
 
 ### *Research • Engineering • Intelligent Systems*
@@ -10,333 +8,148 @@
 
 ## **Pooja Dave<sup>1,2</sup>**
 
-<sup>1</sup> Software Engineer Intern, IBM India Software Labs (ISL), Bengaluru, India
+<sup>1</sup> Software Engineer Intern  
+IBM India Software Labs (ISL), Bengaluru, India
 
-<sup>2</sup> M.Tech in Computer Science (Data Science)<br>
-Sardar Vallabhbhai National Institute of Technology, Surat, India
+<br>
+
+<sup>2</sup> M.Tech in Computer Science (Data Science)  
+Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, India
+
+<br>
+
+**Corresponding Author**  
+pooja.ai.research@gmail.com
 
 </div>
 
 ---
-## 01. Abstract
 
-Artificial intelligence is evolving beyond standalone models toward intelligent systems that combine perception, reasoning, memory, retrieval, and external knowledge. This portfolio documents that evolution through a collection of research-driven projects exploring multimodal AI, computer vision, large language models, AI agents, retrieval-augmented generation (RAG), and explainable AI.
+# Abstract
 
-Each repository represents a step toward building context-aware intelligent systems capable of generating reliable, transparent, and grounded decisions for real-world applications. Together, these projects form a living collection of research prototypes, engineering experiments, and open-source implementations spanning agriculture, disaster intelligence, scientific literature, natural language processing, and data analytics.
-*The portfolio is maintained as a living research document and is continuously updated with new systems, experiments, and publications.*
+This document presents a curated overview of my work in artificial intelligence, bringing together research projects, open-source software, technical writing, and engineering contributions developed across academia and industry. It reflects my interest in building context-aware intelligent systems that integrate perception, reasoning, retrieval, memory, and large language models to solve real-world problems.
+
+The portfolio covers computer vision, multimodal AI, AI agents, retrieval-augmented generation (RAG), explainable AI, and context engineering, with applications in agriculture, disaster intelligence, scientific document understanding, and data analytics. Collectively, these works demonstrate a practical approach to designing reliable, scalable, and human-centered AI systems while continuously exploring emerging ideas through experimentation and technical writing.
+
+Keywords— Artificial Intelligence, Large Language Models, Computer Vision, Multimodal AI, AI Agents, Retrieval-Augmented Generation (RAG), Explainable AI, Context Engineering.
 
 ---
+# I. INTRODUCTION
 
-# 02. Research Vision
+My research focuses on the intersection of artificial intelligence research and software engineering, where I investigate how intelligent systems can be designed to address real-world challenges through the integration of perception, reasoning, retrieval, and contextual knowledge. Rather than treating individual models as complete solutions, I explore how multiple AI components can work together to create reliable, explainable, and practical intelligent systems.
 
-This portfolio is built around the idea that modern artificial intelligence is no longer defined by standalone models, but by intelligent systems that combine perception, context, reasoning, memory, and grounded knowledge. The following conceptual architecture illustrates the research direction that connects every project in this portfolio.
+Through academic research, industry experience, and open-source development, I have worked on applications spanning agriculture, disaster intelligence, scientific document understanding, and intelligent data analytics. While these domains differ, they share a common objective: building AI systems that are scalable, human-centered, and capable of supporting informed decision-making in real-world environments.
+
+The conceptual framework presented below summarizes the research philosophy that connects the projects documented throughout this portfolio.
 
 <p align="center">
-  <img src="assets/research_vision.svg" width="900"/>
+  <img src="assets/research_vision.svg" width="850"/>
 </p>
 
 <div align="center">
 
-**Figure 1.** Conceptual research vision for designing context-aware intelligent systems.
+**Figure 1.** Conceptual framework illustrating the integration of perception, retrieval, reasoning, and contextual knowledge for developing context-aware intelligent systems.
 
 </div>
 
 ---
----
+# II. METHODOLOGY
 
-# 03. Research Areas
+The research presented in this portfolio follows a project-driven methodology that combines scientific investigation with practical software engineering. Rather than focusing on isolated algorithms, each project is designed as an end-to-end intelligent system that addresses a real-world problem through the integration of modern artificial intelligence techniques.
 
-<table>
-<tr>
-<td width="33%" align="center">
+The development process typically consists of the following stages:
 
-### 🤖 Intelligent Systems
+1. **Problem Definition** — Identifying a real-world challenge and formulating a research objective.
 
-AI Agents • LLMs • RAG • Context Engineering
+2. **Data Acquisition & Processing** — Collecting, cleaning, and preparing multimodal datasets including images, text, documents, and structured information.
 
-</td>
+3. **Model Development** — Designing AI pipelines using computer vision, natural language processing, large language models, retrieval systems, and agent-based architectures.
 
-<td width="33%" align="center">
+4. **System Integration** — Combining perception, reasoning, retrieval, memory, APIs, and explainability into deployable intelligent applications.
 
-### 👁️ AI Perception
+5. **Evaluation & Iteration** — Assessing system performance through experimentation, qualitative analysis, and continuous refinement.
 
-Computer Vision • Multimodal AI • Explainable AI
+The resulting research portfolio currently consists of the following representative systems.
 
-</td>
+| Research System | Research Area | Primary Focus |
+|:----------------|:--------------|:--------------|
+| **PrakritiAI** | Multimodal & Mulitilingual AI | Context-aware agricultural intelligence |
+| **ResQAI** | Disaster Intelligence | Multimodal emergency response systems |
+| **DocuChat** | Retrieval-Augmented Generation | Scientific document understanding |
+| **AgriNex** | Computer Vision | Crop disease diagnosis |
+| **CityChronicles** | Natural Language Processing | Regional news intelligence |
+| **AutoEDA++** | Data Analytics | Intelligent exploratory data analysis |
 
-<td width="33%" align="center">
-
-### 🌍 Real-world AI
-
-Agriculture • Disaster Intelligence • Scientific AI
-
-</td>
-</tr>
-</table>
+The diversity of these systems demonstrates a common research direction: developing reliable, explainable, and context-aware artificial intelligence capable of solving practical problems across multiple application domains.
 
 ---
----
+# III. RESEARCH OUTPUTS
 
-# 04. Selected Research
+The research methodology presented in this portfolio has resulted in a growing collection of open-source software, technical publications, and engineering contributions. Together, these outputs represent the practical outcomes of my work across academia, industry, and independent research.
 
----
+## Technical Publications
 
-## PrakritiAI
-### *Agentic Context-aware Multimodal Agricultural Intelligence Platform*
-
-**Research Problem**
-
-How can multimodal AI systems deliver explainable, multilingual, and context-aware agricultural assistance by combining computer vision, retrieval, and reasoning?
-
-**Research Approach**
-
-Computer Vision → Retrieval-Augmented Generation → AI Agents → Explainable Agricultural Recommendations
-
-**Core Technologies**
-
-TensorFlow • Keras • OpenCV • EfficientNetB0 • Grad-CAM • LangChain • LangGraph • Hugging Face • Gemini 2.5 Flash • GPT-4.1 • Qdrant • MXBAI-Embed-Large-v1 • Google Translate API • NLLB-200 • OpenWeatherMap API
-
-**Research Contributions**
-
-- Multilingual multimodal agricultural intelligence
-- Explainable crop disease diagnosis using Grad-CAM
-- Context-aware RAG pipeline with AI agents
-- Weather-aware farming recommendations
-
-**Repository**
-
-🔗 [PrakritiAI](https://github.com/pooja1515/PrakritiAI)
-
----
-
-## ResQAI
-### *Multimodal Disaster Intelligence Platform*
-
-**Research Problem**
-
-How can multimodal AI improve disaster response through grounded reasoning, explainability, and real-time contextual intelligence?
-
-**Research Approach**
-
-Computer Vision → Speech Understanding → Retrieval → AI Orchestration → Human-centered Decision Support
-
-**Core Technologies**
-
-TensorFlow • OpenCV • Whisper • LangChain • Ollama • Gemma • ChromaDB • Sentence Transformers • FastAPI • Streamlit • OpenStreetMap • OpenWeatherMap API
-
-**Research Contributions**
-
-- Disaster scene understanding
-- Multimodal emergency intelligence
-- Explainable disaster reasoning
-- Context-aware humanitarian assistance
-
-**Repository**
-
-🔗 [ResQAI](https://github.com/pooja1515/ResQAI)
-
----
-
-## DocuChat
-### *Conversational RAG for Research Intelligence*
-
-**Research Problem**
-
-How can large language models retrieve, understand, and summarize scientific literature with grounded responses?
-
-**Research Approach**
-
-PDF Processing → Semantic Embeddings → Vector Retrieval → Context-aware Question Answering
-
-**Core Technologies**
-
-LangChain • Hugging Face Transformers • Groq API • FAISS • ChromaDB • Sentence Transformers • Streamlit • PyPDF
-
-**Research Contributions**
-
-- Conversational scientific document intelligence
-- Semantic search over research papers
-- Context-aware literature exploration
-- Grounded question answering
-
-**Repository**
-
-🔗 [DocuChat](https://github.com/pooja1515/DocuChat)
-
----
-
-## AgriNex
-### *AI-powered Crop Disease Diagnosis System*
-
-**Research Problem**
-
-How can deep learning enable reliable crop disease diagnosis under real-world environmental conditions?
-
-**Research Approach**
-
-Image Processing → Transfer Learning → Disease Classification → Explainable Predictions
-
-**Core Technologies**
-
-TensorFlow • Keras • OpenCV • ResNet50 • EfficientNetB0 • MobileNetV2 • Scikit-learn • Google Colab
-
-**Research Contributions**
-
-- End-to-end crop disease diagnosis
-- Comparative CNN evaluation
-- Macro F1-score of 0.943
-- Transfer learning for agricultural vision
-
-**Repository**
-
-🔗 [AgriNex](https://github.com/pooja1515/AgriNex)
-
----
-
-## CityChronicles
-### *NLP-powered Gujarat News Insight Engine*
-
-**Research Problem**
-
-How can NLP automate large-scale regional news understanding and thematic analysis?
-
-**Research Approach**
-
-Web Scraping → NLP Pipeline → BERT-based Analysis → News Intelligence
-
-**Core Technologies**
-
-Python • BERT • NLTK • Selenium • BeautifulSoup • Pandas • Scikit-learn
-
-**Research Contributions**
-
-- Analysis of 76K+ news articles
-- Automated thematic classification
-- Sentiment-aware regional news intelligence
-- End-to-end NLP pipeline
-
-**Repository**
-
-🔗 [CityChronicles](https://github.com/pooja1515/CityChronicles)
-
----
-
-## AutoEDA++
-### *Intelligent Exploratory Data Analysis Platform*
-
-**Research Problem**
-
-How can exploratory data analysis be automated to accelerate machine learning workflows?
-
-**Research Approach**
-
-Automated Profiling → Statistical Analysis → Interactive Visualization
-
-**Core Technologies**
-
-Python • Streamlit • Pandas • NumPy • Plotly • Matplotlib • Altair
-
-**Research Contributions**
-
-- Automated dataset profiling
-- Interactive visual analytics
-- Statistical exploration toolkit
-- ML-ready data understanding
-
-**Repository**
-
-🔗 [AutoEDA++](https://github.com/pooja1515/AutoEDA++)
-
-
----
-
-# 05. Technical Ecosystem
-
-This portfolio combines modern artificial intelligence research with scalable software engineering. The technologies below represent the experimental ecosystem used across the research projects presented in this portfolio.
-
-| Research Layer | Technologies |
-|---------------|--------------|
-| **Programming** | Python • SQL • TypeScript |
-| **Deep Learning** | TensorFlow • Keras • Scikit-learn |
-| **Computer Vision** | OpenCV • Grad-CAM • EfficientNet |
-| **Natural Language AI** | Hugging Face • BERT • Whisper |
-| **LLMs** | Gemini • GPT • Gemma • Ollama |
-| **AI Engineering** | LangChain • LangGraph • MCP |
-| **Retrieval Systems** | Qdrant • ChromaDB • FAISS |
-| **Backend** | FastAPI • Streamlit |
-| **Data Engineering** | Pandas • NumPy • Matplotlib |
-| **Development** | Git • GitHub • Docker |
-
-
----
-
-# 06. Publications & Technical Writing
-
-Research articles documenting observations, engineering insights, and emerging ideas from building modern artificial intelligence systems.
-
-| Publication | Research Theme | Status |
-|-------------|----------------|--------|
-| **The Future of AI Isn't Bigger Models. It's Better Context.** | Context Engineering • Retrieval-Augmented Generation • AI Systems | Published |
-| **Coming Soon** | AI Agents & Agentic Workflows | In Progress |
-| **Coming Soon** | Explainable AI Beyond Grad-CAM | Planned |
-| **Coming Soon** | Building Reliable Multimodal AI Systems | Planned |
-| **Coming Soon** | Context Engineering for Production LLM Applications | Planned |
-| **Coming Soon** | Designing Human-Centered Intelligent Systems | Planned |
-
-<br>
+| Publication | Status |
+|:------------|:------:|
+| **The Future of AI Isn't Bigger Models. It's Better Context.** | Published |
+| **AI Agents Beyond Chatbots** | Writing |
+| **Context Engineering for Production AI Systems** | Planned |
 
 <div align="center">
 
-### 📖 Read More
-
 <a href="YOUR_MEDIUM_LINK">
-<img src="https://img.shields.io/badge/Medium-Research%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Read%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 </div>
 
-
----
-
-# 07. GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pooja1515&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja1515&layout=compact&theme=default&hide_border=true"/>
-
-</div>
-
 <br>
+
+## Open Source Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja1515&theme=github-light&hide_border=true"/>
 
+<br><br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja1515&layout=compact&hide_border=true"/>
+
 </div>
 
+---
+# IV. CONCLUSION
+
+This portfolio represents an ongoing journey in artificial intelligence research, bringing together academic exploration, industry experience, open-source development, and technical writing into a unified body of work. While the projects presented span diverse application domains, they share a common objective: designing intelligent systems that are reliable, explainable, context-aware, and capable of addressing practical real-world challenges.
+
+As the field continues to evolve, my future work will focus on advancing multimodal intelligence, agentic AI, trustworthy large language model systems, and human-centered artificial intelligence through continued research, experimentation, and collaboration.
 
 ---
+# REFERENCES
 
-# 08. References
+[1] P. Dave, *GitHub Research Portfolio*. Available: https://github.com/pooja1515
 
-For additional research updates, technical writing, and open-source contributions:
+[2] P. Dave, *LinkedIn Professional Profile*. Available: https://linkedin.com/in/poojaddave
 
-- **GitHub** → https://github.com/pooja1515
-- **LinkedIn** → https://linkedin.com/in/poojaddave
-- **Medium** → https://medium.com/@YOUR_USERNAME
-- **Kaggle** → https://kaggle.com/davepooja
-- **Email** → davepooja1515@gmail.com
+[3] P. Dave, *Medium Technical Publications*. Available: https://medium.com/@YOUR_USERNAME
 
----
+[4] P. Dave, *Kaggle Profile*. Available: https://kaggle.com/davepooja
+
+[5] IBM India Software Labs (ISL), Bengaluru, India.
+
+[6] Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, India.
 
 <div align="center">
+
+---
 
 *End of Document*
 
 **Artificial Intelligence Portfolio**
 
-Research • Engineering • Intelligent Systems
+Pooja Dave
+
+2026 Edition
 
 </div>
+
