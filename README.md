@@ -247,7 +247,7 @@ Python • Streamlit • Pandas • NumPy • Plotly • Matplotlib • Altair
 
 🔗 [AutoEDA++](https://github.com/pooja1515/AutoEDA++)
 
----
+
 ---
 
 # 05. Technical Ecosystem
@@ -267,7 +267,7 @@ This portfolio combines modern artificial intelligence research with scalable so
 | **Data Engineering** | Pandas • NumPy • Matplotlib |
 | **Development** | Git • GitHub • Docker |
 
----
+
 ---
 
 # 06. Publications & Technical Writing
@@ -295,4 +295,48 @@ Research articles documenting observations, engineering insights, and emerging i
 
 </div>
 
+
 ---
+
+# 07. GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pooja1515&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja1515&layout=compact&theme=default&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja1515&theme=github-light&hide_border=true"/>
+
+</div>
+
+
+---
+
+# 08. References
+
+For additional research updates, technical writing, and open-source contributions:
+
+- **GitHub** → https://github.com/pooja1515
+- **LinkedIn** → https://linkedin.com/in/poojaddave
+- **Medium** → https://medium.com/@YOUR_USERNAME
+- **Kaggle** → https://kaggle.com/davepooja
+- **Email** → davepooja1515@gmail.com
+
+---
+
+<div align="center">
+
+*End of Document*
+
+**Artificial Intelligence Portfolio**
+
+Research • Engineering • Intelligent Systems
+
+</div>
