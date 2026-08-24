@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Artificial Intelligence Portfolio
 
@@ -152,4 +152,4 @@ Pooja Dave
 2026 Edition
 
 </div>
-
+ -->
